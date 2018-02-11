@@ -7,3 +7,4 @@
 
 ## Partie 2 : Premiers Pas avec Java EE
 - [La servlet](fiches/laServlet.md)
+- [Servlet avec vue](fiches/servletAvecVue.md)
