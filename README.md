@@ -5,6 +5,7 @@
 - [Le Java EE mis à nu !](fiches/javaEEMisANu.md)
 - [Outils et environnement de développement](fiches/outilsEtEnvironnementDeDeveloppement.md)
 
+
 ## Partie 2 : Premiers Pas avec Java EE
 - [La servlet](fiches/laServlet.md)
 - [Servlet avec vue](fiches/servletAvecVue.md)
@@ -14,7 +15,9 @@
 - [La technologie JSP (2/2)](fiches/technologieJsp2sur2.md)
 - [Des problèmes de vues ?](fiches/desProblemesDeVue.md)
 
+
 ## Partie 3 : Une bonne vue grâce à la JSTL
 
 - [Objectifs et configuration](fiches/objectifsEtConfiguration.md)
 - [La bibliothèque Core](fiches/laBibliothequeCore.md)
+- [Faisons le point !](fiches/faisonsLePoint.md)
